@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(3d_converted)
+project(3d_converter)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 if (CMAKE_COMPILER_IS_GNUCC AND CMAKE_CXX_COMPILER_VERSION VERSION_LESS 5.1)
