@@ -1,3 +1,5 @@
+Beta version :(
+
 BUILD.:
 
 cd your_path/3d_converter
